@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nacweb/static/css/main.4990ece5.chunk.css",
+    "main.js": "/nacweb/static/js/main.a1a666bc.chunk.js",
+    "main.js.map": "/nacweb/static/js/main.a1a666bc.chunk.js.map",
+    "runtime-main.js": "/nacweb/static/js/runtime-main.c7459b85.js",
+    "runtime-main.js.map": "/nacweb/static/js/runtime-main.c7459b85.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/nacweb/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.82b5c6f4.chunk.js": "/nacweb/static/js/2.82b5c6f4.chunk.js",
+    "static/js/2.82b5c6f4.chunk.js.map": "/nacweb/static/js/2.82b5c6f4.chunk.js.map",
+    "index.html": "/nacweb/index.html",
+    "precache-manifest.2dddb1cde1d62ef1dd69c6990818bf0e.js": "/nacweb/precache-manifest.2dddb1cde1d62ef1dd69c6990818bf0e.js",
+    "service-worker.js": "/nacweb/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/nacweb/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.4990ece5.chunk.css.map": "/nacweb/static/css/main.4990ece5.chunk.css.map",
+    "static/js/2.82b5c6f4.chunk.js.LICENSE.txt": "/nacweb/static/js/2.82b5c6f4.chunk.js.LICENSE.txt",
+    "static/media/aliceblue.png": "/nacweb/static/media/aliceblue.ac85acb0.png",
+    "static/media/datasvg.png": "/nacweb/static/media/datasvg.36028347.png",
+    "static/media/one.jpg.jpeg": "/nacweb/static/media/one.jpg.10d5a07a.jpeg",
+    "static/media/two.jpg.jpeg": "/nacweb/static/media/two.jpg.5b7001fa.jpeg",
+    "static/media/zerodha.png": "/nacweb/static/media/zerodha.62af603a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7459b85.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.82b5c6f4.chunk.js",
+    "static/css/main.4990ece5.chunk.css",
+    "static/js/main.a1a666bc.chunk.js"
+  ]
+}
